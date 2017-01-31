@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+ <title>Scope Creepers Podcast</title>
+ <link>http://www.scopecreeperspodcast.com</link>
+ <description>A developer and a project manager talk about everyday software development issues.</description>
+ <item>
+   <title>Episode 0</title>
+   <link></link>
+   <description>Format of the show</description>
+ </item>
+ <item>
+   <title>XML Tutorial</title>
+   <link></link>
+   <description>Estimations and promises</description>
+ </item>
+</channel>
+
+</rss>
