@@ -7,13 +7,18 @@
  <description>A developer and a project manager talk about everyday software development issues.</description>
  <item>
    <title>Episode 0</title>
-   <link></link>
+   <link>https://soundcloud.com/scope-creepers-podcast/episode-0</link>
    <description>Format of the show</description>
  </item>
  <item>
    <title>Episode 1</title>
-   <link></link>
+   <link>https://soundcloud.com/scope-creepers-podcast/1-estimates-and-promises</link>
    <description>Estimations and promises</description>
+ </item>
+ <item>
+   <title>Episode 2</title>
+   <link>https://soundcloud.com/scope-creepers-podcast/definition-of-done</link>
+   <description>Definition of done</description>
  </item>
 </channel>
 
